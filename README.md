@@ -1,3 +1,5 @@
+[![An image of @sayansutradhar1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sayansutradhar1)](https://holopin.io/@sayansutradhar1)
+
 <h1 align="center">Hi 👋, I'm Sayan Sutradhar</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
