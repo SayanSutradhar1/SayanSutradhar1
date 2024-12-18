@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sayan321x@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pxuFWu6GjSHY_sqH2Aq48teCa9DRg2IO/view?usp=sharing](https://drive.google.com/file/d/1pxuFWu6GjSHY_sqH2Aq48teCa9DRg2IO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KkrM2ZU8ARyAdQYKZPtVHWbVF_LPbp62/view?usp=sharing)
 
 - ⚡ Fun fact **a introvert guy who codes extrovertly**
 
