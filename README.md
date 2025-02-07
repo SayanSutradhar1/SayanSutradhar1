@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Backend , React native , Angular**
 
-- 👨‍💻 All of my projects are available at [sayanportfolio.vercel.app](sayanportfolio.vercel.app)
-
 - 💬 Ask me about **React , Node Js , Java**
 
 - 📫 How to reach me **sayan321x@gmail.com**
