@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayansutradhar1&label=Profile%20views&color=0e75b6&style=flat" alt="sayansutradhar1" /> </p>
 
-- 🌱 I’m currently learning **Backend , React native , Angular**
+- 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **React , Node Js , Java**
+- 💬 Ask me about **React , Node Js , Java , NextJs**
 
 - 📫 How to reach me **sayan321x@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KkrM2ZU8ARyAdQYKZPtVHWbVF_LPbp62/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1T22AqEuurgQN6yAKkQT1YrPRaYaf5MhM)
 
 - ⚡ Fun fact **a introvert guy who codes extrovertly**
 
